@@ -1,3 +1,5 @@
+//Codigo MD5 Hash Generado: 7d73355c601923a011833f841075f60c
+
 function sortedSquaredArray(inputArray, S) {
     // Define el rango superior con base en S (SS)
     const upperLimit = Math.pow(S, 2); // Por ejemplo, para S=6, el límite es 6^2 = 36.
